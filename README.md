@@ -2,6 +2,7 @@ Hello there! I’m an Engineering Manager at [Stripe](https://stripe.com) living
 
 ## Recent blog posts on [cpojer.net](https://cpojer.net)
 
+- [Mastering Tech Lead Management](https://cpojer.net/posts/mastering-tech-lead-management)
 - [The Perfect Development Environment](https://cpojer.net/posts/the-perfect-development-environment)
 - [Set up a new Mac, Fast](https://cpojer.net/posts/set-up-a-new-mac-fast)
 - [Building a JavaScript Bundler](https://cpojer.net/posts/building-a-javascript-bundler)
