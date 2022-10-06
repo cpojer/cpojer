@@ -1,4 +1,6 @@
-Hello there! I’m an Engineering Manager at [Stripe](https://stripe.com) living in Tokyo with my family. Previously, I worked at [Facebook](https://facebook.com) for almost ten years where I managed the JavaScript Infrastructure and React Native teams. I built [Jest](https://jestjs.io), [Metro](https://facebook.github.io/metro/), [Yarn](https://yarnpkg.com), and [MooTools](https://mootools.net).
+Hello there! I’m an Engineering Manager at [Stripe](https://stripe.com) living in Tokyo with my wife and two daughters.
+
+Originally from Austria, I've been building video games and social networks since 2002. I spent the 2010s at [Facebook](https://facebook.com) in Menlo Park and London managing JavaScript Infrastructure and the React Native team. I built [Jest](https://jestjs.io), [Metro](https://facebook.github.io/metro/), [Yarn](https://yarnpkg.com), and [MooTools](https://mootools.net).
 
 ## Recent blog posts on [cpojer.net](https://cpojer.net)
 
