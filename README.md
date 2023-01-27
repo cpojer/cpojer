@@ -4,7 +4,8 @@ Originally from Austria, I've been building video games and social networks sinc
 
 ## Recent blog posts on [cpojer.net](https://cpojer.net)
 
-- [Fastest Frontend Tooling in 2022](https://cpojer.net/posts/fastest-frontend-tooling-in-2022)
+- [Frontend Engineering Archetypes](https://cpojer.net/posts/frontend-engineering-archetypes)
+- [Fastest Frontend Tooling in 2023](https://cpojer.net/posts/fastest-frontend-tooling-in-2022)
 - [Mastering Tech Lead Management](https://cpojer.net/posts/mastering-tech-lead-management)
 - [The Perfect Development Environment](https://cpojer.net/posts/the-perfect-development-environment)
 - [Set up a new Mac, Fast](https://cpojer.net/posts/set-up-a-new-mac-fast)
