@@ -1,8 +1,8 @@
-Hello there! I’m an Engineering Manager at [Stripe](https://stripe.com) living in Tokyo with my wife and two daughters.
-
-I'm currently building [athenacrisis.com](https://athenacrisis.com).
+Hello there! I’m the CEO of [Nakazawa Tech](https://nakazawa.dev) and I live in Tokyo with my wife and two daughters. I’m currently building [Athena Crisis](https://athenacrisis.com).
 
 Originally from Austria, I've been building video games and social networks since 2002. I spent the 2010s at [Facebook](https://facebook.com) in Menlo Park and London managing JavaScript Infrastructure and the React Native team. I built [Jest](https://jestjs.io), [Metro](https://facebook.github.io/metro/), [Yarn](https://yarnpkg.com), and [MooTools](https://mootools.net).
+
+I aim to build in the open and publish as much of my technology stack as possible. I write about Frontend Development, Engineering Management, Leadership, User Experience, and more. If you want to support this work, please consider a [GitHub sponsorship](https://github.com/sponsors/cpojer").
 
 ## Recent blog posts on [cpojer.net](https://cpojer.net)
 
