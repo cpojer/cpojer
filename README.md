@@ -6,7 +6,7 @@ I aim to build in the open and publish as much of my technology stack as possibl
 
 ## Recent blog posts on [cpojer.net](https://cpojer.net)
 
-- [I'm building a company](https://cpojer.net/posts/building-a-company)
+- [I'm Building a Company](https://cpojer.net/posts/building-a-company)
 - [Frontend Engineering Archetypes](https://cpojer.net/posts/frontend-engineering-archetypes)
 - [Fastest Frontend Tooling in 2023](https://cpojer.net/posts/fastest-frontend-tooling-in-2022)
 - [Mastering Tech Lead Management](https://cpojer.net/posts/mastering-tech-lead-management)
