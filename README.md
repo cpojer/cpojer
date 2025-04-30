@@ -1,4 +1,4 @@
-Hello there! I’m the CEO of [Nakazawa Tech](https://nakazawa.dev) and I live in Tokyo with my wife and two daughters. I’m currently building [Athena Crisis](https://athenacrisis.com).
+Hello there! I’m the CEO of [Nakazawa Tech](https://nakazawa.dev) and I live in Tokyo with my wife and two daughters. I recently built [Athena Crisis](https://athenacrisis.com) from scratch and [open sourced](https://github.com/nkzw-tech/athena-crisis) it.
 
 Originally from Austria, I've been creating video games and social networks since 2002. I spent the 2010s at [Facebook](https://facebook.com) in Menlo Park and London managing JavaScript Infrastructure and the React Native team. I built [Jest](https://jestjs.io), [Metro](https://facebook.github.io/metro/), [Yarn](https://yarnpkg.com), and [MooTools](https://mootools.net).
 
@@ -6,6 +6,7 @@ I aim to build in the open and publish as much of my technology stack as possibl
 
 ## Recent blog posts on [cpojer.net](https://cpojer.net)
 
+- [Athena Crisis is now Open Source](https://cpojer.net/posts/athena-crisis-open-source)
 - [I'm Building a Company](https://cpojer.net/posts/building-a-company)
 - [Frontend Engineering Archetypes](https://cpojer.net/posts/frontend-engineering-archetypes)
 - [Fastest Frontend Tooling in 2023](https://cpojer.net/posts/fastest-frontend-tooling-in-2022)
