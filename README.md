@@ -1,13 +1,19 @@
-Hello there! I’m the CEO of [Nakazawa Tech](https://nakazawa.dev), an indie game studio and open source company based in Tokyo.
+Hi, I’m Christoph. For over 20 years I’ve been building open source tools that shape how millions of developers work, including projects I created like [Jest](https://jestjs.io), [Metro](https://facebook.github.io/metro/), [Yarn](https://yarnpkg.com), [jscodeshift](https://www.youtube.com/watch?v=d0pOgY8__JM) and [MooTools](https://mootools.net). I previously led JavaScript Infrastructure and managed the React Native team in Menlo Park and London.
 
-Originally from Austria, I've been creating video games and social networks since 2002. I spent the 2010s at [Facebook](https://facebook.com) in Menlo Park and London managing JavaScript Infrastructure and the React Native team. I built [Jest](https://jestjs.io), [Metro](https://facebook.github.io/metro/), [Yarn](https://yarnpkg.com), and [MooTools](https://mootools.net).
+Today, at [Nakazawa Tech](https://nakazawa.tech), I’m building new developer tooling and indie games in the open, including:
 
-Recently, I built and open sourced [Athena Crisis](https://athenacrisis.com), [fbtee](https://github.com/nkzw-tech/fbtee), [ReMDX](https://github.com/nkzw-tech/remdx), [stack](https://github.com/nkzw-tech/stack) and various starter templates:
-* [Mobile App Template](https://github.com/nkzw-tech/expo-app-template)
-* [Web App Template](https://github.com/nkzw-tech/web-app-template)
-* [Server Template](https://github.com/nkzw-tech/server-template)
+- [Athena Crisis](https://athenacrisis.com) — an [open source](https://github.com/nkzw-tech/athena-crisis) turn-based strategy game built from scratch
+- [fbtee](https://github.com/nkzw-tech/fbtee) — the JavaScript & React Internationalization Framework
+- [ReMDX](https://github.com/nkzw-tech/remdx) — beautiful Minimalist React & MDX Presentations
+- [stack](https://github.com/nkzw-tech/stack) — zero-dependency, type-safe Stack component for streamlining flexbox usage in React & React Native
+- Starter templates:
+  - [Mobile App](https://github.com/nkzw-tech/expo-app-template)  
+  - [Web App](https://github.com/nkzw-tech/web-app-template)  
+  - [Server](https://github.com/nkzw-tech/server-template)  
 
-I aim to build in the open and publish as much of my technology stack as possible. I write about Frontend Development, Engineering Management, Leadership, User Experience, and more. If you want to support this work, please consider a [GitHub sponsorship](https://github.com/sponsors/cpojer).
+I’m obsessed with developer experience and performance, and I aim to open source as much of my technology stack as possible.
+
+Open source has shaped my journey since I first published a project in 2006 and joined [GitHub in June 2008](https://api.github.com/users/cpojer). If you want to support this work, please consider a [GitHub sponsorship](https://github.com/sponsors/cpojer).
 
 ## Recent blog posts on [cpojer.net](https://cpojer.net)
 
