@@ -7,9 +7,9 @@ Today, at [Nakazawa Tech](https://nakazawa.tech), I’m building new developer t
 - [ReMDX](https://github.com/nkzw-tech/remdx) — beautiful Minimalist React & MDX Presentations
 - [stack](https://github.com/nkzw-tech/stack) — zero-dependency, type-safe Stack component for streamlining flexbox usage in React & React Native
 - Starter templates:
-  - [Mobile App Template](https://github.com/nkzw-tech/expo-app-template)  
-  - [Web App Template](https://github.com/nkzw-tech/web-app-template)  
-  - [Server Template](https://github.com/nkzw-tech/server-template)  
+  - [Mobile App Template](https://github.com/nkzw-tech/expo-app-template)
+  - [Web App Template](https://github.com/nkzw-tech/web-app-template)
+  - [Server Template](https://github.com/nkzw-tech/server-template)
 
 I’m obsessed with developer experience and performance, and I aim to open source as much of my technology stack as possible.
 
