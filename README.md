@@ -5,7 +5,7 @@ Today, at [Nakazawa Tech](https://nakazawa.tech), I’m building new developer t
 - [Athena Crisis](https://athenacrisis.com) — an [open source](https://github.com/nkzw-tech/athena-crisis) turn-based strategy game built from scratch
 - [fbtee](https://github.com/nkzw-tech/fbtee) — the JavaScript & React Internationalization Framework
 - [ReMDX](https://github.com/nkzw-tech/remdx) — beautiful Minimalist React & MDX Presentations
-- [stack](https://github.com/nkzw-tech/stack) — zero-dependency, type-safe Stack component for streamlining flexbox usage in React & React Native
+- [Stack](https://github.com/nkzw-tech/stack) — zero-dependency, type-safe Stack component for streamlining flexbox usage in React & React Native
 - Starter templates:
   - [Mobile App Template](https://github.com/nkzw-tech/expo-app-template)
   - [Web App Template](https://github.com/nkzw-tech/web-app-template)
