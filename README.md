@@ -1,23 +1,23 @@
-Hi, I’m Christoph. For over 20 years I’ve been building open source tools that shape how millions of developers work, including projects I created like [Jest](https://jestjs.io), [Metro](https://facebook.github.io/metro/), [Yarn](https://yarnpkg.com), [jscodeshift](https://www.youtube.com/watch?v=d0pOgY8__JM) and [MooTools](https://mootools.net). I previously led JavaScript Infrastructure and managed the React Native team in Menlo Park and London.
+Hi, I’m Christoph. For over 25 years I’ve been building open source tools that shape how millions of developers work, including projects I created like [Jest](https://jestjs.io), [Metro](https://facebook.github.io/metro/), [Yarn](https://yarnpkg.com) and [jscodeshift] (https://www.youtube.com/watch?v=d0pOgY8__JM). I previously led JavaScript Infrastructure and managed the React Native team at Facebook in Menlo Park and London.
 
-Today, at [Nakazawa Tech](https://nakazawa.tech), I’m building new developer tooling and indie games in the open, including:
+Today, I work as an Engineering Director at [Cloudflare](https://cloudflare.com) and as CEO of [Nakazawa Tech](https://nakazawa.tech) in Tokyo. Recently, I’ve been building:
 
-- [Athena Crisis](https://athenacrisis.com) — an [open source](https://github.com/nkzw-tech/athena-crisis) turn-based strategy game built from scratch
-- [_fate_](https://fate.technology) — a modern data client for React & tRPC
-- [fbtee](https://github.com/nkzw-tech/fbtee) — the JavaScript & React Internationalization Framework
-- [ReMDX](https://github.com/nkzw-tech/remdx) — beautiful Minimalist React & MDX Presentations
-- [Stack](https://github.com/nkzw-tech/stack) — zero-dependency, type-safe Stack component for streamlining flexbox usage in React & React Native
-- Starter templates:
-  - [Mobile App Template](https://github.com/nkzw-tech/expo-app-template)
-  - [Web App Template](https://github.com/nkzw-tech/web-app-template)
-  - [Server Template](https://github.com/nkzw-tech/server-template)
+- [Athena Crisis](https://athenacrisis.com) — an [open source](https://github.com/nkzw-tech/
+athena-crisis) turn-based strategy game built from scratch
+- **[fate](https://fate.technology)** — a modern data client for React & tRPC
+- **[Codiff](https://codiff.dev)** — a fast diff viewer with walkthroughs
+- **[fbtee](https://fbtee.dev)** — the JavaScript & React Internationalization Framework
+- **[ReMDX](https://github.com/nkzw-tech/remdx)** — beautiful Minimalist React & MDX Presentations
+- **Starter templates:** [Mobile App](https://github.com/nkzw-tech/expo-app-template), [Web App](https://github.com/nkzw-tech/web-app-template), [Server Template](https://github.com/ nkzw-tech/server-template)
+- *[and way more…](https://github.com/nkzw-tech)*
 
-I’m obsessed with developer experience and performance, and I aim to open source as much of our technology stack as possible.
+I write about Frontend Development, Engineering Management, Leadership, and User Experience.
 
 Open source has shaped my journey since I first published a project in 2006 and joined [GitHub in June 2008](https://api.github.com/users/cpojer). If you want to support this work, please consider a [GitHub sponsorship](https://github.com/sponsors/cpojer).
 
 ## Recent blog posts on [cpojer.net](https://cpojer.net)
 
+- [Modern Engineering Values](https://cpojer.net/posts/modern-engineering-values)
 - [Fastest Frontend Tooling for Humans & AI](https://cpojer.net/posts/fastest-frontend-tooling)
 - [You are absolutely right!?](https://cpojer.net/posts/you-are-absolutely-right)
 - [Athena Crisis is now Open Source](https://cpojer.net/posts/athena-crisis-open-source)
