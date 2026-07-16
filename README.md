@@ -2,13 +2,12 @@ Hi, I’m Christoph. For over 25 years I’ve been building open source tools th
 
 Today, I work as an Engineering Director at [Cloudflare](https://cloudflare.com) and as CEO of [Nakazawa Tech](https://nakazawa.tech) in Tokyo. Recently, I’ve been building:
 
-- [Athena Crisis](https://athenacrisis.com) — an [open source](https://github.com/nkzw-tech/
-athena-crisis) turn-based strategy game built from scratch
+- [Athena Crisis](https://athenacrisis.com) — an [open source](https://github.com/nkzw-tech/athena-crisis) turn-based strategy game built from scratch
 - **[fate](https://fate.technology)** — a modern data client for React & tRPC
 - **[Codiff](https://codiff.dev)** — a fast diff viewer with walkthroughs
 - **[fbtee](https://fbtee.dev)** — the JavaScript & React Internationalization Framework
 - **[ReMDX](https://github.com/nkzw-tech/remdx)** — beautiful Minimalist React & MDX Presentations
-- **Starter templates:** [Mobile App](https://github.com/nkzw-tech/expo-app-template), [Web App](https://github.com/nkzw-tech/web-app-template), [Server Template](https://github.com/ nkzw-tech/server-template)
+- **Starter templates:** [Mobile App](https://github.com/nkzw-tech/expo-app-template), [Web App](https://github.com/nkzw-tech/web-app-template), [Server Template](https://github.com/nkzw-tech/server-template)
 - *[and way more…](https://github.com/nkzw-tech)*
 
 I write about Frontend Development, Engineering Management, Leadership, and User Experience.
