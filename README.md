@@ -1,4 +1,4 @@
-Hi, I’m Christoph. For over 25 years I’ve been building open source tools that shape how millions of developers work, including projects I created like [Jest](https://jestjs.io), [Metro](https://facebook.github.io/metro/), [Yarn](https://yarnpkg.com) and [jscodeshift] (https://www.youtube.com/watch?v=d0pOgY8__JM). I previously led JavaScript Infrastructure and managed the React Native team at Facebook in Menlo Park and London.
+Hi, I’m Christoph. For over 25 years I’ve been building open source tools that shape how millions of developers work, including projects I created like [Jest](https://jestjs.io), [Metro](https://facebook.github.io/metro/), [Yarn](https://yarnpkg.com) and [jscodeshift](https://www.youtube.com/watch?v=d0pOgY8__JM). I previously led JavaScript Infrastructure and managed the React Native team at Facebook in Menlo Park and London.
 
 Today, I work as an Engineering Director at [Cloudflare](https://cloudflare.com) and as CEO of [Nakazawa Tech](https://nakazawa.tech) in Tokyo. Recently, I’ve been building:
 
